@@ -7,8 +7,8 @@ import telebot
 
 # Example of your code beginning
 #           Config vars
-token = os.environ['TELEGRAM_TOKEN']
-some_api_token = os.environ['SOME_API_TOKEN']
+token = os.environ['5239292055:AAEmXmBmnRtlEi8KmCkC9naRH1Zny2Oz9fg']
+some_api_token = os.environ['5239292055:AAEmXmBmnRtlEi8KmCkC9naRH1Zny2Oz9fg']
 #             ...
 
 # If you use redis, install this add-on https://elements.heroku.com/addons/heroku-redis
